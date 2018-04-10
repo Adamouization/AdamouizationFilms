@@ -1,29 +1,31 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
-    "version": "4.0.0",
-    "description": "A freelancer portfolio HTML theme for Bootstrap.",
+    "title": "AdamouizationFilms",
+    "name": "AdamouizationFilms",
+    "version": "0.0.0",
+    "description": "...",
     "keywords": [
+        "bootstrap",
+        "js",
         "css",
-        "sass",
         "html",
-        "responsive",
-        "theme",
-        "template"
+        "sass",
+        "one-page-website",
+        "filmmaking",
+        "youtube"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/freelancer",
+    "homepage": "http://adamouizationfilms.jaamour.com/",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Adamouization/AdamouizationFilms/issues",
+        "email": "adam@jaamour.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Adam Jaamour",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Adam Jaamour (https://github.com/Adamouization)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+        "url": "https://github.com/Adamouization/AdamouizationFilms"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
