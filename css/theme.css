@@ -36,7 +36,7 @@ hr.star-light, hr.star-primary {
 }
 
 hr.star-light:after, hr.star-primary:after {
-    content: "\f005";
+    content: "\f008";
     font-family: FontAwesome;
     display: inline-block;
     position: relative;
