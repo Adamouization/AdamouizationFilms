@@ -9,7 +9,6 @@ AdamouizationFilms Website TODO
 * add credits page
 * add all portfolio entries
 * enable google analytics
-* complete about me section 
 
 # Design
 * mobile home screen icon
@@ -19,3 +18,4 @@ AdamouizationFilms Website TODO
 * download all third-party libraries
 
 ## Completed
+* complete about me section 
