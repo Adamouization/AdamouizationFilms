@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Matter - 3D Vines Reel"
+date:   2015-08-07 12:00:00 -0500
+img: img/portfolio/matter.jpg
+modalID: modalMatter
+iframeID: oK5fEtGVsIo
+category: Reel
+---
+A Collection of my best 3D structures on [Vine](https://vine.co/Adamouization).
+
+During the summer of 2014, I gathered over 500 000 loops on Vine with 24 posts, while being featured on the *Technology"
+over 10 times.
+
+<hr>
+
+**Software**: Final Cut Pro X & Matter (iOS)
+
+**Pictures copyright**: Adamouization©; Nasa; Pixite Apps & ell_ffa
+
+**Music**: Electric Feel (Kygo Remix) - Henry Green
