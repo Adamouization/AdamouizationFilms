@@ -1,0 +1,21 @@
+AdamouizationFilms Website TODO
+===============================
+
+## Features to add
+* add a contact form OR contact details
+* add social network page
+* add photography page
+* add terms and conditions
+* add credits page
+* add all portfolio entries
+* enable google analytics
+* complete about me section 
+
+# Design
+* mobile home screen icon
+* add logo to navbar
+
+# Code improvements
+* download all third-party libraries
+
+## Completed
