@@ -1,7 +1,9 @@
 AdamouizationFilms Website TODO
 ===============================
 
-## Features to add
+## TODO
+
+### Features to add
 * add a contact form OR contact details
 * add social network page
 * add photography page
@@ -9,12 +11,13 @@ AdamouizationFilms Website TODO
 * add credits page
 * add all portfolio entries
 * enable google analytics
+* start embedded videos at specific time (add extra field to all posts with time)
 
-# Design
+### Design
 * mobile home screen icon
 * add logo to navbar
 
-# Code improvements
+### Code improvements
 * download all third-party libraries
 
 ## Completed
