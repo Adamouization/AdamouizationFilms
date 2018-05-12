@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Formula 1 - 2015 Monaco Grand-Prix Highlights"
+date:   2015-05-29 12:00:00 -0500
+img: img/portfolio/formula1_2015.jpg
+modalID: modalF12015
+iframeID: V6B8riQLGJM
+category: Edit
+---
+ 
+An exciting weekend in Monaco with some great racing during the day and wild nightlife once the sun sets! 
+
+<hr>
+
+**Cameras**: Canon Legria HV40, Nikon D700 (9mm lens) and GoPro Hero 3 Black
+
+**Software**: Final Cut Pro X
+
+**Music**: You Know You Like It (Tchami Remix) - AlunaGeorge

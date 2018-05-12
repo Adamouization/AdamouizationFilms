@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Formula E - 2015 Monaco E-Prix Highlights"
+date:   2015-05-10 12:00:00 -0500
+img: img/portfolio/formulae_2015.jpg
+modalID: modalFE2015
+iframeID: D72VWKcqBI
+category: Edit
+---
+ 
+Highlights of the first ever Formula E race in the streets of Monaco.
+
+<hr>
+
+**Cameras**: Canon Legria HV40 and GoPro Hero 3 Black (timelapses)
+
+**Software**: Final Cut Pro X
+
+**Music**: The Only Way Is Up - Martin Garrix & Tiësto
