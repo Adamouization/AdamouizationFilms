@@ -2,7 +2,7 @@
 title: AdamouizationFilms
 email: adamouizationfilms@gmail.com
 description: > # ignore newlines until "baseurl:"
-  Filmmaker
+  Filmmaker Enthusiast
 baseurl: "" # site subpath
 url: "http://http://www.adamouization.jaamour.com" # the base hostname & protocol
 
@@ -14,6 +14,7 @@ instagram_username: adamouization
 vine_username: Adamouization
 
 # Address information
+location: Monaco & Bath
 address1_city: Monaco
 address1_country: Monte-Carlo
 address2_city: Bath
