@@ -5,7 +5,7 @@ date:   2016-09-22 12:00:00 -0500
 img: img/portfolio/mauritius.jpg
 modalID: modalMauritius
 iframeID: x_5-_DkPli0
-category: Edits
+category: Edit
 ---
 Short edit of my trip to Mauritius during the summer of 2016. It was a great place to relax but also to do a lot of water
 sports and to capture great shots!
