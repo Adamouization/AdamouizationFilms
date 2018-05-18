@@ -22,3 +22,6 @@ address2_country: United Kingdom
 
 # Build settings
 markdown: kramdown
+
+# Google analytics tracking ID
+google_analytics_tracking_id: UA-116916521-2

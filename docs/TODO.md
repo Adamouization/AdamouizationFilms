@@ -5,7 +5,6 @@ AdamouizationFilms Website TODO
 
 ### Features to add
 * [ ] add all portfolio entries
-* [ ] enable google analytics
 * [ ] start embedded videos at specific time (add extra field to all posts with time)
 
 ### Design
@@ -19,3 +18,4 @@ AdamouizationFilms Website TODO
 * [X] complete about me section 
 * [X] change portfolio item hover from search to youtube play button
 * [X] make contact form functional
+* [X] enable google analytics
