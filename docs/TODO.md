@@ -4,11 +4,6 @@ AdamouizationFilms Website TODO
 ## TODO
 
 ### Features to add
-* [ ] add a contact form OR contact details
-* [ ] add social network page
-* [ ] add photography page
-* [ ] add terms and conditions
-* [ ] add credits page
 * [ ] add all portfolio entries
 * [ ] enable google analytics
 * [ ] start embedded videos at specific time (add extra field to all posts with time)
@@ -23,3 +18,4 @@ AdamouizationFilms Website TODO
 ## Completed
 * [X] complete about me section 
 * [X] change portfolio item hover from search to youtube play button
+* [X] make contact form functional
