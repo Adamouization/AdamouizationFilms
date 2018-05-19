@@ -22,6 +22,7 @@ p.small {
 
 a, a.active, a:active, a:focus, a:hover {
     color: var(--light-blue);
+    border-radius: 5px;
     outline: 0
 }
 
