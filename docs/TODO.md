@@ -8,7 +8,6 @@ AdamouizationFilms Website TODO
 * [ ] start embedded videos at specific time (add extra field to all posts with time)
 
 ### Design
-* [ ] mobile home screen icon
 * [ ] add logo to navbar
 
 ### Code improvements
@@ -19,3 +18,4 @@ AdamouizationFilms Website TODO
 * [X] change portfolio item hover from search to youtube play button
 * [X] make contact form functional
 * [X] enable google analytics
+* [X] mobile home screen icon
