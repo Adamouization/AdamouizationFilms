@@ -11,7 +11,7 @@ AdamouizationFilms Website TODO
 * [ ] add logo to navbar
 
 ### Code improvements
-* [ ] download necessary third-party libraries to improve loading speed
+* no tasks at the moment
 
 ## Completed
 * [X] complete about me section 
@@ -19,3 +19,4 @@ AdamouizationFilms Website TODO
 * [X] make contact form functional
 * [X] enable google analytics
 * [X] mobile home screen icon
+* [X] download necessary third-party libraries to improve loading speed
