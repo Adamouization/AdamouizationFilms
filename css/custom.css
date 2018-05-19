@@ -3,3 +3,9 @@
     max-width: 256px;
     max-height: 256px;
 }
+
+.navbar-button, navbar-button:active, navbar-button:focus, navbar-button:hover {
+    color: #5193af;
+    border-radius: 5px;
+    outline: 0
+}
