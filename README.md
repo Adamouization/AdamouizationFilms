@@ -8,7 +8,9 @@ You can visit the website live here when it will be released: **TBA**
 ## Usage
 
 * Clone the repository (or download the zipped project):
-`$ git clone https://github.com/Adamouization/AdamouizationFilms`
+```
+$ git clone https://github.com/Adamouization/AdamouizationFilms
+```
 
 * Move in the directory and run the following command:
 ```
