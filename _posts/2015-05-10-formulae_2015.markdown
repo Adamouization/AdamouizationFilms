@@ -9,11 +9,15 @@ videoStartTime: 3
 category: Edit
 ---
  
-Highlights of the first ever Formula E race in the streets of Monaco.
+Highlights of the first ever Formula E ePrix race in the streets of Monaco.
+
+You can also view videos of each session of the weekend with pure sound in the playlist below on [AdamouizationF1](https://www.youtube.com/channel/UCyqYenGBWXLc_ocBE-CMwOw)
+
+[2015 Formula E Monaco ePrix playlist](https://www.youtube.com/watch?v=-D72VWKcqBI&list=PLEa8txVppfC3veHQRu8T0F162yDF0IgMT)
 
 <hr>
 
-**Cameras**: Canon Legria HV40 and GoPro Hero 3 Black (timelapses)
+**Cameras**: Canon Legria HV40 and GoPro Hero 3 Black with FlowMow (timelapses)
 
 **Software**: Final Cut Pro X
 

@@ -9,16 +9,16 @@ videoStartTime: 0
 category: Reel
 ---
  
-It's already been 4 years since the creation of Adamouization with my first upload to my YouTube channel! 
+It's already been **4 years** since the creation of Adamouization with my first upload to my YouTube channel! 
 
-I can't thank you enough for all the support I've received since I started out in 2011! 
+I can't thank you enough for all the support I've received since I started out in **2011**!
 
-By 2013 we had already reached 1.3 million views and 2000 subscribers, but although my previous channel was deleted due 
-to copyright reasons, the achievement and the support was what mattered! I learned a lot in terms of filmmaking 
+By 2013 we had already reached **1.3M views** and **2000 subscribers**, but although my previous channel was deleted due 
+to copyright reasons, the achievement and the support was what really mattered! I learned a lot in terms of filmmaking 
 techniques and that would not have happened if I didn't have anyone to show it to!
 
 So I want to take the time to thank every single person who clicked on the like or subscribe button on YouTube, 
-Facebook, Instagram, Soundcloud or Vine: what you see in this video wouldn't have been possible without you! 
+Facebook, Instagram, Soundcloud or Vine: what you see in this video would not have been possible without you! 
 
 <hr>
 

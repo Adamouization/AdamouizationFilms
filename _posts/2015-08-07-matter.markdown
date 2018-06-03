@@ -8,15 +8,27 @@ iframeID: oK5fEtGVsIo
 videoStartTime: 12
 category: Reel
 ---
-A Collection of my best 3D structures on [Vine](https://vine.co/Adamouization).
+A Collection of my best 3D structures renders on [Vine](https://vine.co/Adamouization).
 
-During the summer of 2014, I gathered over 500 000 loops on Vine with 24 posts, while being featured on the *Technology"
-over 10 times.
+During the summer of 2014, I started creating artistic Vines using a combination of visual 3D structures and electronic music matching the clip.
+
+I gathered over **500 000 loops** on Vine with 24 posts, being featured on the *Technology* page for most of those Vines.
+
+These structures were rendered using an iOS app called Matter, developed by [Pixite](http://pixiteapps.com/).
+
+<hr>
+
+@Twitter Mention by the developers
+
+<div style="text-align: center;">
+    <blockquote class="twitter-tweet tw-align-center" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Very cool video using <a href="https://twitter.com/matter_app?ref_src=twsrc%5Etfw">@matter_app</a> by <a href="https://twitter.com/Adamouization?ref_src=twsrc%5Etfw">@Adamouization</a> <a href="https://t.co/30JE8OWB4g">https://t.co/30JE8OWB4g</a> Find more of his work on Vine <a href="https://t.co/rB0NmC23J5">https://t.co/rB0NmC23J5</a></p>&mdash; Pixite (@pixiteapps) <a href="https://twitter.com/pixiteapps/status/629722693579878400?ref_src=twsrc%5Etfw">August 7, 2015</a></blockquote>
+    <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 <hr>
 
 **Software**: Final Cut Pro X & Matter (iOS)
 
-**Pictures copyright**: Adamouization©; Nasa; Pixite Apps & ell_ffa
+**Pictures copyright**: Adamouization©, Nasa, Pixite Apps, & ell_ffa
 
 **Music**: Electric Feel (Kygo Remix) - Henry Green

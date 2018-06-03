@@ -9,8 +9,27 @@ videoStartTime: 13
 category: Reel
 ---
  
-A short edit of the timelapses shot during the summer of 2014 in the following locations: Monaco, Nantes, Oléron, 
-Las Vegas, Los Angeles, San Francisco, San Diego, Santa Barbara, Monterey and Sonoma.
+A short edit of the timelapses shot during the summer of 2014 in the following locations: 
+
+Monaco *(MON)*
+
+Nantes *(FRA)*
+
+Oléron *(FRA)*
+
+Las Vegas *(USA)*
+
+Los Angeles *(USA)*
+
+San Francisco *(USA)*
+
+San Diego *(USA)*
+
+Santa Barbara *(USA)*
+
+Monterey *(USA)*
+
+Sonoma *(USA)*
 
 <hr>
 
