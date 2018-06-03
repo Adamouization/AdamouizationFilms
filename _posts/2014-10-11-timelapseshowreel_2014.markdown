@@ -5,6 +5,7 @@ date:   2014-10-11 12:00:00 -0500
 img: img/portfolio/timelapses_2014.jpg
 modalID: modalTimelapses2014
 iframeID: WALV4hit2Sg
+videoStartTime: 13
 category: Reel
 ---
  

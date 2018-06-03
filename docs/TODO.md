@@ -5,7 +5,6 @@ AdamouizationFilms Website TODO
 
 ### Features to add
 * [ ] add all portfolio entries
-* [ ] start embedded videos at specific time (add extra field to all posts with time)
 
 ### Design
 * [ ] add logo to navbar
@@ -23,3 +22,4 @@ AdamouizationFilms Website TODO
 * [X] enable google analytics
 * [X] mobile home screen icon
 * [X] download necessary third-party libraries to improve loading speed
+* [X] start embedded videos at specific time (add extra field to all posts with time)

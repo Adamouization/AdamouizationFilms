@@ -5,6 +5,7 @@ date:   2015-08-07 12:00:00 -0500
 img: img/portfolio/matter.jpg
 modalID: modalMatter
 iframeID: oK5fEtGVsIo
+videoStartTime: 12
 category: Reel
 ---
 A Collection of my best 3D structures on [Vine](https://vine.co/Adamouization).
