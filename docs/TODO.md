@@ -4,14 +4,16 @@ AdamouizationFilms Website TODO
 ## TODO
 
 ### Features to add
-* [ ] add all portfolio entries
-* [ ] start embedded videos at specific time (add extra field to all posts with time)
+* [ ] use optimised thumbnails for ratio used OR change image ratio
 
 ### Design
 * [ ] add logo to navbar
 
 ### Code improvements
 * no tasks at the moment
+
+### Bug fixes
+* [ ] fix youtube iframes width when viewing on mobile (make fit if mobile)
 
 ## Completed
 * [X] complete about me section 
@@ -20,3 +22,5 @@ AdamouizationFilms Website TODO
 * [X] enable google analytics
 * [X] mobile home screen icon
 * [X] download necessary third-party libraries to improve loading speed
+* [X] start embedded videos at specific time (add extra field to all posts with time)
+* [X] add all portfolio entries

@@ -5,14 +5,39 @@ date:   2015-05-29 12:00:00 -0500
 img: img/portfolio/formula1_2015.jpg
 modalID: modalF12015
 iframeID: V6B8riQLGJM
+videoStartTime: 4
 category: Edit
 ---
  
-An exciting weekend in Monaco with some great racing during the day and wild nightlife once the sun sets! 
+Every year since 2011 I have been filming my personal footage of the Monaco Grand-Prix, one of the most prestigious sport events on the planet.
+
+This post in specific showcases my *Highlight Summary of the 2015 Formula 1 Monaco Grand-Prix*, which was an exciting weekend in Monaco with some great racing during the day and wild nightlife once the sun set. 
 
 <hr>
 
-**Cameras**: Canon Legria HV40, Nikon D700 (9mm lens) and GoPro Hero 3 Black
+You can find all of my **Formula 1** videos on my second channel, [AdamouizationF1](https://www.youtube.com/user/AdamouizationF1/featured), where I post **raw footage** with **pure sound** of all the events during each Monaco Grand-Prix weekend.
+
+The videos include the practice, qualification and race sessions of Formula 1, but also the support series including Formula 2 (ex GP2), GP3, Formula Renault 3.5, Eurocup Formula Renault 2.0 and Porsche Mobil 1 Supercup.
+
+You can also find videos of the Historic Grand-Prix of Monaco and the Formula E ePrix of Monaco.
+
+All of these videos are available in the **playlists below** or directly at [AdamouizationF1](https://www.youtube.com/user/AdamouizationF1/featured).
+
+<hr>
+
+[2018 - 76th Formula 1 Grand-Prix videos](https://www.youtube.com/watch?v=kuxEXwlRGBk&list=PLEa8txVppfC2XZoByJo7z3pmVO_VllbGV)
+
+[2015 - 73rd Formula 1 Grand-Prix videos](https://www.youtube.com/watch?v=V6B8riQLGJM&list=PLEa8txVppfC24OIalQmgqbwACUMQirKR6)
+
+[2015 - 1st Monaco Formula E ePrix](https://www.youtube.com/watch?v=-D72VWKcqBI&list=PLEa8txVppfC3veHQRu8T0F162yDF0IgMT)
+
+[2014 - 72nd Formula 1 Grand-Prix videos](https://www.youtube.com/watch?v=pQghPzMvRWk&list=PLEa8txVppfC28o0sWKrQygP61FDJVQpMk)
+
+[2014 - 9th Historic Grand-Prix of Monaco](https://www.youtube.com/watch?v=zgLtMRi9E4Y&list=PLEa8txVppfC1BNTSlKKt7xXzoZgvhuPIO)
+
+<hr>
+
+**Cameras**: Canon Legria HV40 with Rode Videomic Pro, Nikon D700 (9mm lens) and GoPro Hero 3 Black
 
 **Software**: Final Cut Pro X
 
