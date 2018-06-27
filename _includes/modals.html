@@ -13,10 +13,12 @@
                     <div class="modal-body">
                         <h2>{{ post.title }}</h2>
                         <hr class="star-primary">
-                        <iframe src="https://www.youtube.com/embed/{{post.iframeID}}?start={{post.videoStartTime}}"
-                                width="720" height="405"
-                                frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-                        </iframe>
+                        <div class="youtube-iframe-container">
+                            <iframe src="https://www.youtube.com/embed/{{post.iframeID}}?start={{post.videoStartTime}}"
+                                    class="youtube-iframe-video"
+                                    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+                            </iframe>
+                        </div>
                         <hr>
                         {{ post.content }}
                         <ul class="list-inline item-details">
