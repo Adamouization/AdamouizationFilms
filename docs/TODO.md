@@ -4,7 +4,6 @@ AdamouizationFilms Website TODO
 ## TODO
 
 ### Features to add
-* [ ] use optimised thumbnails for ratio used OR change image ratio
 * [ ] add "back to top button" -  especially for mobile
 * [ ] add additional pages (terms & conditions, credits?)
 
@@ -27,3 +26,4 @@ AdamouizationFilms Website TODO
 * [X] start embedded videos at specific time (add extra field to all posts with time)
 * [X] add all portfolio entries
 * [X] fix youtube iframes width when viewing on mobile (make fit if mobile)
+* [X] use optimised thumbnails for ratio used OR change image ratio
