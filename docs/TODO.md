@@ -5,6 +5,8 @@ AdamouizationFilms Website TODO
 
 ### Features to add
 * [ ] use optimised thumbnails for ratio used OR change image ratio
+* [ ] add "back to top button" -  especially for mobile
+* [ ] add additional pages (terms & conditions, credits?)
 
 ### Design
 * [ ] add logo to navbar
@@ -13,7 +15,7 @@ AdamouizationFilms Website TODO
 * no tasks at the moment
 
 ### Bug fixes
-* [ ] fix youtube iframes width when viewing on mobile (make fit if mobile)
+* no tasks at the moment
 
 ## Completed
 * [X] complete about me section 
@@ -24,3 +26,4 @@ AdamouizationFilms Website TODO
 * [X] download necessary third-party libraries to improve loading speed
 * [X] start embedded videos at specific time (add extra field to all posts with time)
 * [X] add all portfolio entries
+* [X] fix youtube iframes width when viewing on mobile (make fit if mobile)
