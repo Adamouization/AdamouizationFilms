@@ -1,11 +1,19 @@
 AdamouizationFilms
 ==================
 
-**AdamouizationFilms** is a one-page Bootstrap website powered by Jekyll showcasing my filmmaking projects.
+**AdamouizationFilms** is a one-page mobile-friendly website powered by Jekyll showcasing my filmmaking projects.
 
-You can visit the website live here when it will be released: **TBA**
+You can visit the website live here when it will be released:[www.adamouization.jaamour.com](http://www.adamouization.jaamour.com/)
+
+## Screenshots
+add screenshots
+
+## Download
+add download
 
 ## Usage
+
+How to run the website locally.
 
 * Clone the repository (or download the zipped project):
 ```
