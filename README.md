@@ -3,7 +3,7 @@ AdamouizationFilms
 
 **AdamouizationFilms** is a one-page mobile-friendly website powered by Jekyll showcasing my filmmaking projects.
 
-You can visit the website live here when it will be released:[www.adamouization.jaamour.com](http://www.adamouization.jaamour.com/)
+You can visit the website live here when it will be released: [www.adamouization.jaamour.com](http://www.adamouization.jaamour.com/)
 
 ## Screenshots
 add screenshots
@@ -28,7 +28,7 @@ bundle exec jekyll serve --watch
 * Visit the website on `127.0.0.1:4000`
 
 ## To Do
-* see  [TODO](https://github.com/Adamouization/AdamouizationFilms/blob/master/docs/TODO.md) file.
+* see [TODO](https://github.com/Adamouization/AdamouizationFilms/blob/master/docs/TODO.md) file.
 
 ## License 
 * see [LICENSE](https://github.com/Adamouization/AdamouizationFilms/blob/master/LICENSE) file.
