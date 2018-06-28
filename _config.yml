@@ -2,9 +2,9 @@
 title: AdamouizationFilms
 email: adamouizationfilms@gmail.com
 description: > # ignore newlines until "baseurl:"
-  Filmmaker Enthusiast
+   Filmmaker enthusiast from Monaco studying Computer Science in the UK
 baseurl: "" # site subpath
-url: "http://http://www.adamouization.jaamour.com" # the base hostname & protocol
+url: "http://www.adamouization.jaamour.com" # the base hostname & protocol
 
 # Social media profiles
 youtube_username: AdamouizationFilms
