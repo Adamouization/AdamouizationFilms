@@ -9,6 +9,7 @@ AdamouizationFilms Website TODO
 
 ### Design
 * [ ] add logo to navbar
+* [ ] disable green button when sending form
 
 ### Code improvements
 * no tasks at the moment
