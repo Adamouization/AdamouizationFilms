@@ -5,8 +5,7 @@ AdamouizationFilms Website TODO
 
 ### Features to add
 * [ ] add "back to top button" -  especially for mobile
-* [ ] add additional pages (terms & conditions, credits?)
-* [ ] remove links to Vine page 
+* [ ] add additional pages (terms & conditions, credits?) 
 
 ### Design
 * [ ] add logo to navbar
@@ -29,3 +28,4 @@ AdamouizationFilms Website TODO
 * [X] fix youtube iframes width when viewing on mobile (make fit if mobile)
 * [X] use optimised thumbnails for ratio used OR change image ratio
 * [X] fix form bug
+* [X] remove links to Vine page
