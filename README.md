@@ -6,10 +6,14 @@ AdamouizationFilms
 You can visit the website live here when it will be released: [www.adamouization.jaamour.com](http://www.adamouization.jaamour.com/)
 
 ## Screenshots
-add screenshots
+
+#### Desktop View
+
+![desktop view](https://github.com/Adamouization/AdamouizationFilms/blob/master/docs/adamouizationfilms_desktop.gif)
 
 ## Download
-add download
+
+* [v1.0.0](https://github.com/Adamouization/AdamouizationFilms/blob/master/releases/AdamouizationFilms-v1.0.0-30062018.zip)
 
 ## Usage
 
