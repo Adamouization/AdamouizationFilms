@@ -1,4 +1,4 @@
-AdamouizationFilms
+AdamouizationFilms [![GitHub issues](https://img.shields.io/github/issues/Adamouization/AdamouizationFilms?style=plastic)](https://github.com/Adamouization/AdamouizationFilms/issues) [![GitHub license](https://img.shields.io/github/license/Adamouization/AdamouizationFilms?style=plastic)](https://github.com/Adamouization/AdamouizationFilms/blob/master/LICENSE) [![author](https://img.shields.io/badge/author-Adam%20Jaamour-lightgrey.svg?style=plastic)](http://www.adam.jaamour.com)
 ==================
 
 **AdamouizationFilms** is a one-page mobile-friendly website powered by Jekyll showcasing my filmmaking projects.
