@@ -1,5 +1,5 @@
 # Site settings
-title: AdamouizationFilms
+title: Adamouization Films
 email: adamouizationfilms@gmail.com
 description: > # ignore newlines until "baseurl:"
    Filmmaker enthusiast from Monaco studying a Masters in Artificial Intelligence at the University of St Andrews
@@ -13,7 +13,7 @@ twitter_username: Adamouization
 instagram_username: adamouization
 
 # Address information
-location: Monaco & St Andrews
+location: Monaco
 address1_city: Monaco
 address1_country: Monte-Carlo
 address2_city: St Andrews
