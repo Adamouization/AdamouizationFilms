@@ -10,6 +10,7 @@ _site/
 .idea/**/tasks.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/codeStyles/
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
