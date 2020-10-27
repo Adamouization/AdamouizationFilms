@@ -13,8 +13,8 @@ You can visit the website live here: [www.adamouization.jaamour.com](http://www.
 
 ## Download
 
-* [v1.0](https://github.com/Adamouization/AdamouizationFilms/blob/master/releases/AdamouizationFilms-v1.0.0-30062018.zip)
-* [v1.1](https://github.com/Adamouization/AdamouizationFilms/blob/master/releases/AdamouizationFilms-v1.1-20092019.zip)
+* **[v1.1](https://github.com/Adamouization/AdamouizationFilms/releases/tag/v1.1) (20/09/2019)**
+* [v1.0](https://github.com/Adamouization/AdamouizationFilms/releases/tag/v1.0) (01/07/2018)
 
 ## Usage
 
