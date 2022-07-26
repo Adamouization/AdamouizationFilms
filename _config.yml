@@ -2,7 +2,7 @@
 title: Adamouization Films
 email: adamouizationfilms@gmail.com
 description: > # ignore newlines until "baseurl:"
-   Filmmaker enthusiast from Monaco studying a Masters in Artificial Intelligence at the University of St Andrews
+   Filmmaker enthusiast from Monaco working as a Data Scientist in London
 baseurl: "" # site subpath
 url: "http://www.adamouization.jaamour.com" # the base hostname & protocol
 
@@ -13,11 +13,11 @@ twitter_username: Adamouization
 instagram_username: adamouization
 
 # Address information
-location: Monaco
-address1_city: Monaco
-address1_country: Monte-Carlo
-address2_city: St Andrews
-address2_country: Scotland
+location: London & Monaco
+address1_city: London
+address1_country: United Kingdom
+address2_city: Monaco
+address2_country: Monte-Carlo
 
 # Build settings
 markdown: kramdown
