@@ -13,7 +13,8 @@ You can visit the website live here: [www.adamouization.jaamour.com](http://www.
 
 ## Download
 
-* **[v1.1](https://github.com/Adamouization/AdamouizationFilms/releases/tag/v1.1) (20/09/2019)**
+* **[v1.2](https://github.com/Adamouization/AdamouizationFilms/releases/tag/v1.2) (06/01/2024)**
+* [v1.1](https://github.com/Adamouization/AdamouizationFilms/releases/tag/v1.1) (20/09/2019)
 * [v1.0](https://github.com/Adamouization/AdamouizationFilms/releases/tag/v1.0) (01/07/2018)
 
 ## Usage
@@ -40,7 +41,6 @@ bundle exec jekyll serve --watch
 * see [LICENSE](https://github.com/Adamouization/AdamouizationFilms/blob/master/LICENSE) file.
 
 ## Contact
-* email: adam@jaamour.com
+* email: adam[at]jaamour[dot]com
 * website: www.adam.jaamour.com
 * LinkedIn: [linkedin.com/in/adamjaamour](https://www.linkedin.com/in/adamjaamour/)
-* twitter: [@Adamouization](https://twitter.com/Adamouization)
