@@ -11,7 +11,6 @@ youtube_username: AdamouizationFilms
 youtube_f1_username: AdamouizationF1
 facebook_username: Adamouization
 twitter_username: Adamouization
-instagram_username: adamouization
 
 # Address information
 location: London & Monaco
@@ -24,4 +23,4 @@ address2_country: Monte-Carlo
 markdown: kramdown
 
 # Google analytics tracking ID
-google_analytics_tracking_id: UA-116916521-2
+google_analytics_tracking_id: G-T1JJYDBSDC
