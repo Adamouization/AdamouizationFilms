@@ -2,7 +2,7 @@
 layout: post
 title:  "Day In the Life of a Data Scientist"
 date:   2022-12-04 12:00:00 -0500
-img: img/portfolio/day-in-life-DS.png
+img: img/portfolio/day-in-life-DS.webp
 modalID: modalDayInLifeDS
 iframeID: dOEEIuly9ro
 videoStartTime: 0
