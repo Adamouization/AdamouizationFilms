@@ -4,20 +4,20 @@ email: adamouizationfilms@gmail.com
 description: > # ignore newlines until "baseurl:"
    Filmmaker enthusiast from Monaco working as a Data Scientist in London
 baseurl: "" # site subpath
-url: "http://www.adamouization.jaamour.com" # the base hostname & protocol
+url: "https://adamouization.jaamour.com/" # the base hostname & protocol
 
 # Social media profiles
 youtube_username: AdamouizationFilms
 youtube_f1_username: AdamouizationF1
-facebook_username: Adamouization
+# facebook_username: Adamouization
 twitter_username: Adamouization
 
 # Address information
 location: London & Monaco
 address1_city: London
-address1_country: United Kingdom
-address2_city: Monaco
-address2_country: Monte-Carlo
+address1_country: UK
+address2_city: Monte-Carlo
+address2_country: Monaco
 
 # Build settings
 markdown: kramdown

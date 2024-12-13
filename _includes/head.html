@@ -6,9 +6,28 @@
     <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="keywords" content ="film, filmmaking, movie, youtube, channel, camera, canon, gopro, formula 1, f1, monaco, grand-prix"/>
-    <meta name="revised" content = "Adam Jaamour, date_last_edited: 20/09/2019"/>
+    <meta name="keywords" content ="monaco, film, filmmaking, channel, camera, canon, gopro, formula 1, f1, grand-prix"/>
+    <meta name="revised" content = "Adam Jaamour, date_last_edited: 13/12/2024"/>
     <meta name="author" content = "Adam Jaamour"/>
+
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url | default: "https://adamouization.jaamour.com/" }}{% if page.url %}{{ page.url }}{% endif %}">
+    <meta property="og:image" content="{{ site.url }}/img/opengraph.png">
+    <meta property="og:site_name" content="{{ site.title | escape }}">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="twitter:image" content="{{ site.url }}/img/opengraph.png">
+    <meta name="twitter:site" content="@Adamouization">
+
+    <!-- SEO -->
+    <link rel="canonical" href="https://adamouization.jaamour.com/">
+    <meta name="robots" content="index, follow">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="../img/favicon.ico">

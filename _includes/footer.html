@@ -4,12 +4,16 @@
         <div class="container">
             <div class="row">
                 <div class="footer-col col-md-4">
-                    <h3>Locations</h3>
+                    <h3>Other Websites</h3>
+                    <p><a href="https://www.globeflix.app/?ref=adamouizationfilms" target="_blank">GlobeFlix</a>
+                    <p><a href="https://adam.jaamour.com/?ref=adamouizationfilms" target="_blank">Work Portfolio</a></p>
+                    <p><a href="https://adamouization.github.io/?ref=adamouizationfilms" target="_blank">Retro Blog</a></p>
+                    <!-- <h3>Locations</h3>
                     <p>
                         {{ site.address1_city }}, {{ site.address1_country }}
                         <br>
                         {{ site.address2_city }}, {{ site.address2_country }}
-                    </p>
+                    </p> -->
                 </div>
                 <div class="footer-col col-md-4">
                     <h3>Around the Web</h3>
@@ -62,10 +66,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    AdamouizationFilms, Adam Jaamour &copy; 2011-{{ site.time | date: "%Y" }}
+                    AdamouizationFilms, Adam Jaamour &copy; 2011-{{ site.time | date: "%Y" }} | <a href="#" data-toggle="modal" data-target="#privacyPolicyModal">Privacy Policy</a>
                 </div>
             </div>
         </div>
+    </div>
+    <div class="footer-privacy text-center">
+        
     </div>
 </footer>
 <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
@@ -74,3 +81,60 @@
         <i class="fa fa-chevron-up"></i>
     </a>
 </div>
+
+<!-- Privacy Policy Modal -->
+<div class="modal" id="privacyPolicyModal">
+    <div class="modal-content">
+        <span class="close">&times;</span>
+        <h1>Privacy Policy for AdamouizationFilms</h1>
+        <p><strong>Effective Date:</strong> December 12, 2024</p>
+
+        <p>At AdamouizationFilms, we are committed to protecting your privacy. This Privacy Policy outlines the types of information we collect and how it is used.</p>
+
+        <h2>1. Information We Collect</h2>
+        <p><strong>Personal Data:</strong> When you contact us through our website's contact form, we collect your name, email address, and phone number. This information is used solely to respond to your inquiries and provide you with the necessary information.</p>
+        <br>
+        <p><strong>Non-Personal Data:</strong> We collect non-personal data via Google Analytics, such as website traffic and user interaction information, to help us improve the site’s functionality and performance.</p>
+
+        <h2>2. Use of Information</h2>
+        <p>We use the information collected to respond to your inquiries and provide customer support. Your personal data will not be used for marketing purposes or shared with any third parties.</p>
+
+        <h2>3. Data Sharing</h2>
+        <p>We do not share your personal data with any third parties. Your information is kept confidential and only used for the purpose of communication and answering your queries.</p>
+
+        <h2>4. Children's Privacy</h2>
+        <p>We do not collect any data from individuals under the age of 13. If we discover that we have inadvertently collected personal data from children, we will take steps to delete that information as quickly as possible.</p>
+
+        <h2>5. Updates to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. If any significant changes are made, we will notify you by email if you have contacted us via the contact form.</p>
+
+        <h2>6. Contact Information</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us at <a href="mailto:hello@jaamour.com">hello@jaamour.com</a>.</p>
+
+        <p>By using our website, you consent to the collection and use of information as outlined in this Privacy Policy.</p>
+    </div>
+</div>
+<script>
+    // Get the modal
+    var modal = document.getElementById("privacyPolicyModal");
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+
+    // When the user clicks on the link, open the modal
+    document.querySelector('[data-target="#privacyPolicyModal"]').onclick = function() {
+        modal.style.display = "block";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+        modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+        if (event.target == modal) {
+            modal.style.display = "none";
+        }
+    }
+</script>
